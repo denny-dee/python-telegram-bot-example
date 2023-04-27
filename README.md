@@ -9,6 +9,6 @@ While I have considered rewriting the project to make it more scalable, structur
 Regardless, I am publishing this project to mark the end of a chapter. If you are interested, feel free to contribute to the project by submitting a pull request or simply exploring it for fun.
 
 # How to
-1. Edit faq.csv in MS Office if you'd like.
+1. Edit faq.csv in MS Office if you'd like. Make sure to save it in ANSI (iirc)?
 2. Edit avaya.txt if you need to.
 3. Run code from main.py.
